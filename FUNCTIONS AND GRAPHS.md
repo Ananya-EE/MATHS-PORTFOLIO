@@ -1,0 +1,13 @@
+# DEFINATION OF FUNCTION : 
+It is a correspondance between a first set called the domain and second set called the range such that each member of domain corresponds to exactly one member of range.
+## REPRESENTATION  OF FUNCTION :
+1. VERBALLY : By description of words 
+2. GRAPHICAL REPRESENTATION : If a graph is given we can find the function of the graph.
+3. NUMERICALLY : By adding table values
+4. ALGEBRICALLY : By adding an explicit formula.
+# DOMAIN AND RANGE
+## 1.DOMAIN :
+It is the set of all possible input values( independent variable ) for which the function is defined.
+## 2.RANGE :
+It is the set of all poosible output values( dependent variable ) that the function can be produced.
+## EXAMPLES :
